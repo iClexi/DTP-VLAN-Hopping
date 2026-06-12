@@ -160,6 +160,7 @@ write memory
 
 - Repositorio: https://github.com/iClexi/DTP-VLAN-Hopping
 - Playlist de YouTube: https://youtube.com/playlist?list=PLTp8NH1NHehxblNDD-ApWYQsKbfWJVFmf&si=vD3gJYk3grB9q30f
+- Link de Youtube: https://www.youtube.com/watch?v=CTbAkY9fn70
 
 ## 10. Autor
 
