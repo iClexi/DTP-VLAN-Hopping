@@ -1,5 +1,12 @@
 # How-To: DTP VLAN Hopping - convertir interfaz de acceso en trunk
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-red)
+![Environment](https://img.shields.io/badge/Environment-GNS3%20%7C%20IOSvL2-orange)
+![Use](https://img.shields.io/badge/Use-Controlled%20Lab-yellow)
+![Topic](https://img.shields.io/badge/Topic-Network%20Security-purple)
+![Attack](https://img.shields.io/badge/Attack-DTP%20VLAN%20Hopping-darkred)
+
 Este repositorio documenta un laboratorio controlado en GNS3 donde se demuestra un ataque **DTP VLAN Hopping**. El objetivo es convertir una interfaz configurada inicialmente como puerto de acceso en una interfaz troncal usando negociación DTP.
 
 > Uso exclusivo en laboratorio autorizado. No ejecutar en redes reales, empresariales o de terceros.
